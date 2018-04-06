@@ -4,3 +4,5 @@ This is a paper deposit covers classical papers mentioned by Andrew Ng in the De
 2. RNN related.
 3. DNN related.
 4. GAN realted.
+
+All papers are downloaded from arxiv.org
